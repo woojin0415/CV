@@ -2,11 +2,11 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Smartphone Sensing App
+  role: Developer
+  duration: 2022 &mdash;
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Sensing many sensor value Using Sensor in Smartphone (ex. Acceleration, Gyro, Orientation, Bluetooth, Wifi, ...)
 
 # Springfield Community Outreach Group
 - project: Springfield Community Outreach Group
