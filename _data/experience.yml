@@ -1,7 +1,7 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: BLE Beacon을 이용한 무인 택배함 만들기
+  position: Backend Developer, Team Leader
+  duration: 03, 2022 &mdash; present
+  summary: 무인 택배함에 부착된 BLE Beacon의 Signal을 핸드폰으로 받아 RSSI 값을 뽑아내고 이를 CNN 모델을 이용해 분석해 현재 핸드폰이 택배함의 몇 번 칸에 있는지를 분석하고 해당 택배함의 이용 권한을 취득할 수 있게 하는 프로젝트
 
